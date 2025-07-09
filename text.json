@@ -1,0 +1,18 @@
+{
+    "hero": {
+        "title": "Webhouse",
+        "description1": "Desarrollamos y proveemos productos web rápidos y eficientes para potenciar tu negocio",
+        "description2": "Soluciones a medida para negocios, PyMEs, profesionales e instituciones",
+        "button1": "Ver productos",
+        "button2": "Hablar con un especialista"
+    },
+    "products": {
+        "title": "Nuestros productos estrella",
+        "cta": "Contratar"
+    },
+    "services": {
+        "title": "Servicios personalizados",
+        "paragraph": "Soluciones técnicas para mantener y potenciar tu presencia online"
+    }
+
+}
