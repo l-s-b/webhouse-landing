@@ -4,14 +4,16 @@
         "description1": "Desarrollamos y proveemos productos web rápidos y eficientes para potenciar tu negocio",
         "description2": "Soluciones a medida para negocios, PyMEs, profesionales e instituciones",
         "button1": "Ver productos",
-        "button2": "Comunicarse con un asesor"
+        "button2": "Comunicarse con un asesor",
+        "href1": "#productos",
+        "href2": "https://wa.me/5493425679503"
     },
     "products": {
         "title": "Nuestros productos estrella",
         "cta": "Contratar"
     },
     "services": {
-        "title": "Servicios personalizados",
+        "title": "Nuestros servicios",
         "paragraph": "Soluciones técnicas para mantener y potenciar tu presencia online"
     }
 

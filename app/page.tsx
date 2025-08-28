@@ -13,7 +13,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Webhouse",
-  description: "Soluciones web rápidás y eficientes para potenciar tu negocio.",
+  description: "Soluciones web rápidas y eficientes para potenciar tu negocio.",
   // other metadata
 };
 

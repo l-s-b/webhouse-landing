@@ -26,13 +26,15 @@ const Hero = () => {
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="#"
+                    href={copy.hero.href1}
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     {copy.hero.button1}
                   </Link>
                   <Link
-                    href="#"
+                    href={copy.hero.href2}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     {copy.hero.button2}

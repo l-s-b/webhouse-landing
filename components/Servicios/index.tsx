@@ -6,7 +6,7 @@ import copy from '../../text.json';
 const Servicios = () => {
   return (
     <>
-      <section id="features" className="py-16 md:py-20 lg:py-28">
+      <section id="servicios" className="py-16 md:py-20 lg:py-28">
         <div className="container">
           <SectionTitle
             title={copy.services.title}
